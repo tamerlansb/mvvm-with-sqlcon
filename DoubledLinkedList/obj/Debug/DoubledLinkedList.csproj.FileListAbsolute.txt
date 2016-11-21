@@ -1,0 +1,5 @@
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\DoubledLinkedList\bin\Debug\DoubledLinkedList.dll
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\DoubledLinkedList\bin\Debug\DoubledLinkedList.pdb
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\DoubledLinkedList\obj\Debug\DoubledLinkedList.csprojResolveAssemblyReference.cache
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\DoubledLinkedList\obj\Debug\DoubledLinkedList.dll
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\DoubledLinkedList\obj\Debug\DoubledLinkedList.pdb

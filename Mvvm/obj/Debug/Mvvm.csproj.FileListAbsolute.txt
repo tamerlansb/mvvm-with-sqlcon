@@ -1,0 +1,36 @@
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\bin\Debug\Mvvm.exe.config
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\bin\Debug\Mvvm.exe
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\bin\Debug\Mvvm.pdb
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm.csprojResolveAssemblyReference.cache
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\MainWindow.g.cs
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\App.g.cs
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm_MarkupCompile.cache
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm_MarkupCompile.lref
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\MainWindow.baml
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm.g.resources
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm.Properties.Resources.resources
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm.csproj.GenerateResource.Cache
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm.exe
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\obj\Debug\Mvvm.pdb
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\bin\Debug\DoubledLinkedList.dll
+\\bacint.ru\datastore\users.asteros\users.asteros15\tamerlan.sagindykov\documents\visual studio 2015\Projects\Mvvm\Mvvm\bin\Debug\DoubledLinkedList.pdb
+D:\Mvvm\Mvvm\bin\Debug\Mvvm.exe.config
+D:\Mvvm\Mvvm\obj\Debug\Mvvm.exe
+D:\Mvvm\Mvvm\obj\Debug\Mvvm.pdb
+D:\Mvvm\Mvvm\bin\Debug\Mvvm.exe
+D:\Mvvm\Mvvm\bin\Debug\Mvvm.pdb
+D:\Mvvm\Mvvm\bin\Debug\DoubledLinkedList.dll
+D:\Mvvm\Mvvm\bin\Debug\DoubledLinkedList.pdb
+D:\Mvvm\Mvvm\obj\Debug\Mvvm.csprojResolveAssemblyReference.cache
+D:\Mvvm\Mvvm\obj\Debug\MainWindow.g.cs
+D:\Mvvm\Mvvm\obj\Debug\App.g.cs
+D:\Mvvm\Mvvm\obj\Debug\Mvvm_MarkupCompile.cache
+D:\Mvvm\Mvvm\obj\Debug\Mvvm_MarkupCompile.lref
+D:\Mvvm\Mvvm\obj\Debug\MainWindow.baml
+D:\Mvvm\Mvvm\obj\Debug\Mvvm.g.resources
+D:\Mvvm\Mvvm\obj\Debug\Mvvm.Properties.Resources.resources
+D:\Mvvm\Mvvm\obj\Debug\Mvvm.csproj.GenerateResource.Cache
+D:\Mvvm\Mvvm\bin\Debug\EntityFramework.dll
+D:\Mvvm\Mvvm\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mvvm\Mvvm\bin\Debug\EntityFramework.xml
+D:\Mvvm\Mvvm\bin\Debug\EntityFramework.SqlServer.xml
